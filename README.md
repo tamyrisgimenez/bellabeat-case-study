@@ -12,4 +12,4 @@ You are a junior data analyst working on the marketing analyst team at Bellabeat
 * Jupyter Notebook
 
 ## Blog Post
-I have also [blogged](https://tamyris-gimenez.medium.com/google-data-analytics-professional-certificate-capstone-bellabeat-case-study-with-python-d24a6c92e6e8) about this project.
+I have also [blogged](https://tamyris-gimenez.medium.com/google-data-analytics-professional-certificate-capstone-bellabeat-case-study-with-python-d24a6c92e6e8) about this project on Medium.
